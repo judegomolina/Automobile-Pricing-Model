@@ -2,7 +2,7 @@
 This is a Linear Regression Model based on the following dataset from Kaggle:
 https://www.kaggle.com/vipashakaul/predicting-the-price-of-an-automobile
 
-The given dataset had 26 feature columns, 1 target column and over 200 observations, the main objectiva was to create a model to accurately predict the price of cars.
+The given dataset has 26 feature columns, 1 target column and over 200 observations, the main objective was to create a model to accurately predict the price of cars.
 In order to achieve that goal first it was necessary to preprocess the data.
 
 In the preprocessing step, I had to face missing values, dummies generation, outliers and turning apparently categorical variables into numerical. After that it was time to start
