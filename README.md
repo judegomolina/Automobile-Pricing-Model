@@ -32,7 +32,7 @@ After verifying that you meet all the above mentioned requirements you have two 
 
 In the first case, you'll need to clone the entire repository in your machine and everything we'll be set for you to start running the project. 
 
-This option is strongly recommended as you will get all the information about the model and also won't have to deal with choosing specific files than could lead to some issues.
+This option is strongly recommended as you will get all the information about the model and also won't have to deal with choosing specific files that could lead to some issues.
 
 #### Just Use the Model for Predictions
 
@@ -50,7 +50,7 @@ At this point everything is ready for you to start running the project, so we'll
 
 ### Reviewing Preprocessing and Modelling Steps
 
-You can start by opening the notebooks with the preprocessing and modelling steps and check everything we went through to achive our final result. You may need to run all cells again if their outpots are not displayed.
+You can start by opening the notebooks with the preprocessing and modelling steps and check everything we went through to achive our final result. You may need to run all cells again if the outpots are not displayed.
 
 Also if you have some issues with the files required for the deployment (Car_price_preprocessed.csv, model and scaler) running these notebooks again will generate those files.
 
