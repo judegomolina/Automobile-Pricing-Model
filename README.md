@@ -30,7 +30,7 @@ After verifying that you meet all the above mentioned requirements you have two 
 
 #### Review Every Step of the Analysis
 
-In the first case, you'll need to clone the entire repository in your machine and everything we'll be set up for you to start running the project. 
+In the first case, you'll need to clone the entire repository in your machine and everything we'll be set for you to start running the project. 
 
 This option is strongly recommended as you will get all the information about the model and also won't have to deal with choosing specific files than could lead to some issues.
 
@@ -48,7 +48,7 @@ In this case, you won't need the whole repository and instead you just require t
 
 At this point everything is ready for you to start running the project, so we'll now go through some things you can do.
 
-### Reviewing Preprocessing and Modeling Steps
+### Reviewing Preprocessing and Modelling Steps
 
 You can start by opening the notebooks with the preprocessing and modelling steps and check everything we went through to achive our final result. You may need to run all cells again if their outpots are not displayed.
 
